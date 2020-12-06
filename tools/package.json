@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "firebase-tools": "^8.13.0",
-    "husky": "^4.3.0",
+    "husky": "^4.3.4",
     "lint-staged": "^10.4.2",
     "prettier": "^2.1.2",
     "prettier-plugin-java": "^0.8.3",
